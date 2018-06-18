@@ -1,0 +1,17 @@
+{
+  "name": "outside-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "outside": "outside"
+  },
+  "author": "Machari Marigi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0",
+    "ora": "^2.1.0"
+  }
+}
